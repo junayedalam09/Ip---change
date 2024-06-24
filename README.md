@@ -12,7 +12,7 @@ Using `git clone`:
 
 ```shell
 git clone https://github.com/junayedalam09/Ip---change.git
-cd  Ip---change && chmod +x Ip---change
+cd  Ip---change && chmod +x ipaddresschange.sh
 ```
 ```
 
